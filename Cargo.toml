@@ -1,0 +1,11 @@
+[package]
+name = "basic_math_calcgen"
+authors = ["Taneristique"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "basic_math_calcgen"
+crate-type = ["dylib"]
